@@ -1,4 +1,4 @@
-import 'package:atomic_design_handson/pages/index.dart';
+import './pages/index.dart';
 import 'package:flutter/material.dart';
 
 void main() {
