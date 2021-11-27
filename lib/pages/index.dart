@@ -1,4 +1,4 @@
-import 'package:atomic_design_handson/components/core/index_template.dart';
+import '../../components/core/index_template.dart';
 import 'package:flutter/material.dart';
 
 class Index extends StatefulWidget {
